@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\student\source\repos\ProjectMISHA4Z\Source.c(16,2): warning C4098: name: функция типа "void", возвращающая значение
+C:\Users\student\source\repos\ProjectMISHA4Z\Source.c(30,2): warning C4098: date: функция типа "void", возвращающая значение
+  ProjectMISHA4Z.vcxproj -> C:\Users\student\source\repos\ProjectMISHA\x64\Debug\ProjectMISHA4Z.exe

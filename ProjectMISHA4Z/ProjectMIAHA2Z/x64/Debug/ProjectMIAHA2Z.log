@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\student\source\repos\ProjectMIAHA2Z\Source.c(13,2): warning C4098: main: функция типа "void", возвращающая значение
+  ProjectMIAHA2Z.vcxproj -> C:\Users\student\source\repos\ProjectMISHA\x64\Debug\ProjectMIAHA2Z.exe
