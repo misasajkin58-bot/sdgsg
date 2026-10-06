@@ -5,7 +5,7 @@
 
 void name()
 {
-	setlocale(LC_CTYPE, "ru_RU.UTF-8");
+	setlocale(LC_CTYPE, "RUS");
 	printf("******************************\n");
 	printf("*Òåìà: Ðàçðàáîòêà êîíñîëüíîãî*\n");
 	printf("*    ïðèëîæåíèÿ              *\n");
